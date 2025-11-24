@@ -1,0 +1,34 @@
+[
+  {
+    "id": 101,
+    "name": "SuperBook Pro",
+    "category_id": 1,
+    "price": 1200.00,
+    "manufacturer": "TechCorp",
+    "tags": "New, Premium, Top Seller"
+  },
+  {
+    "id": 102,
+    "name": "EcoWatch Lite",
+    "category_id": 2,
+    "price": 85.50,
+    "manufacturer": "GreenStuff",
+    "tags": "Eco, Sale, New"
+  },
+  {
+    "id": 103,
+    "name": "PowerBlend Mixer",
+    "category_id": 3,
+    "price": 240.00,
+    "manufacturer": "TechCorp",
+    "tags": "Premium"
+  },
+  {
+    "id": 104,
+    "name": "Standard Mouse",
+    "category_id": 1,
+    "price": 15.00,
+    "manufacturer": "SimpleGear",
+    "tags": "Standard, Budget"
+  }
+]

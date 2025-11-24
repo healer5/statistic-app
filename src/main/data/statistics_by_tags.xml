@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statistics>
+    <item>
+        <value>New</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Premium</value>
+        <count>2</count>
+    </item>
+    <item>
+        <value>Top Seller</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Eco</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Sale</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Standard</value>
+        <count>1</count>
+    </item>
+    <item>
+        <value>Budget</value>
+        <count>1</count>
+    </item>
+</statistics>
